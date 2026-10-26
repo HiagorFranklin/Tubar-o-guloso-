@@ -7,6 +7,6 @@ Bichinho virtual em 3D no estilo Pou. Cuide do tubarão de pelúcia na casinha s
 - **Quarto:** apague a luz para ele dormir e recuperar energia.
 - **Jogos:** Pega-peixe, para ganhar moedas e emagrecer.
 
-Jogue em: https://hiagorfranklin.github.io/tubar-o-guloso-/
+Jogue em: https://hiagorfranklin.github.io/Tubar-o-guloso-/
 
 O progresso fica salvo no navegador de cada pessoa. Feito com [Three.js](https://threejs.org/).

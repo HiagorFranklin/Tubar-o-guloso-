@@ -1,5 +1,5 @@
 // Guarda o jogo no celular para abrir rápido e funcionar sem internet.
-const CACHE = "tubarao-v3";
+const CACHE = "tubarao-v4";
 const CORE = [
   "./", "index.html", "manifest.webmanifest",
   "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png",
